@@ -7,7 +7,6 @@
 
 <p align="left"> <a href="https://twitter.com/tushar_574" target="blank"><img src="https://img.shields.io/twitter/follow/tushar_574?logo=twitter&style=for-the-badge" alt="tushar_574" /></a> </p>
 
-- 🌱 I’m currently learning **Web Development**
 
 - 📫 How to reach me **dtushar22comp@student.mes.ac.in**
 
