@@ -11,7 +11,6 @@
 
 - 📫 How to reach me **dtushar22comp@student.mes.ac.in**
 
-- 📄 Know about me 👉 [https://drive.google.com/file/d/1Fff7rXJ6VlEW1BWvQvGqlKpWxXJXY6c5/view?usp=drivesdk](https://drive.google.com/file/d/1Fff7rXJ6VlEW1BWvQvGqlKpWxXJXY6c5/view?usp=drivesdk)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
